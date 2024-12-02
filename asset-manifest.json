@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Availity02/static/css/main.65377fec.css",
+    "main.js": "/Availity02/static/js/main.5fa188d9.js",
+    "static/js/453.02b9db1e.chunk.js": "/Availity02/static/js/453.02b9db1e.chunk.js",
+    "static/media/bg-pattern.webp": "/Availity02/static/media/bg-pattern.dbcef9be0da41c3c05ab.webp",
+    "static/media/logo-large.png": "/Availity02/static/media/logo-large.d6f68b2c80cfcc67dac0.png",
+    "static/media/logo.webp": "/Availity02/static/media/logo.d1b6487a17670ec86efd.webp",
+    "index.html": "/Availity02/index.html",
+    "static/media/favicon (1).webp": "/Availity02/static/media/favicon (1).99a65a374ca5944da448.webp",
+    "static/media/client_approval.webp": "/Availity02/static/media/client_approval.1b15eff5cbb6a586ae1a.webp",
+    "main.65377fec.css.map": "/Availity02/static/css/main.65377fec.css.map",
+    "main.5fa188d9.js.map": "/Availity02/static/js/main.5fa188d9.js.map",
+    "453.02b9db1e.chunk.js.map": "/Availity02/static/js/453.02b9db1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65377fec.css",
+    "static/js/main.5fa188d9.js"
+  ]
+}
